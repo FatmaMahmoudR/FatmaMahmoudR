@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <strong>📊 GitHub Stats:</strong><br/>
+  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=FatmaMahmoudR&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaMahmoudR&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
